@@ -1,0 +1,5 @@
+{
+    "editor.renderWhitespace": "none",
+    "editor.codeActionsOnSave": null,
+    "javascript.implicitProjectConfig.experimenttalDecorators":true
+}
